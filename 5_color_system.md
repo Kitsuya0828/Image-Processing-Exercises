@@ -14,8 +14,7 @@
 
 #### 変換式
 
-$$\left( \begin{array}{lll} y\\ I\\ Q \end{array} \right)
-=
+$$\left( \begin{array}{lll} y\\ I\\ Q \end{array} \right)=
 \left( \begin{array}{lll}
 0.299 &0.587 &0.114\\
 0.596 &-0.274 &-0.322\\
@@ -25,8 +24,7 @@ $$\left( \begin{array}{lll} y\\ I\\ Q \end{array} \right)
 
 
 $$
-\left ( \begin{array}{lll} R\\ G\\ B \end{array} \right)
- =
+\left ( \begin{array}{lll} R\\ G\\ B \end{array} \right)=
  \left ( \begin{array}{lll}
  1 &0.956 &0.621\\
  1 &-0.273 &-0.647\\
