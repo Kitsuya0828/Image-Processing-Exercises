@@ -13,16 +13,14 @@
 
 
 #### 変換式
-$$
-\left ( \begin{array}{lll} y\\ I\\ Q \end{array} \right)
- =
- \left ( \begin{array}{lll}
- 0.299 &0.587 &0.114\\
- 0.596 &-0.274 &-0.322\\
- 0.211 &-0.523 &0.312
- \end{array} \right)
- \left ( \begin{array}{lll} R\\ G\\ B \end{array} \right)
-$$
+$$\left ( \begin{array}{lll} y\\ I\\ Q \end{array} \right)
+=
+\left ( \begin{array}{lll}
+0.299 &0.587 &0.114\\
+0.596 &-0.274 &-0.322\\
+0.211 &-0.523 &0.312
+\end{array} \right)
+\left ( \begin{array}{lll} R\\ G\\ B \end{array} \right)$$
 
 
 $$
